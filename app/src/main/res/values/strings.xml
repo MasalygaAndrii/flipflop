@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flip Flop</string>
+    <string name="start_ff">Start service</string>
+    <string name="start_btn">Close Cover</string>
+    <string name="opn_control_btn">Open control</string>
+    <string name="open_btn">Open</string>
+    <string name="close_btn">Close</string>
+    <string name="control_panel">Welcome to control</string>
+</resources>
