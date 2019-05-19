@@ -1,4 +1,4 @@
-package com.android.flipflop;
+package com.android.flipflop.services;
 
 import android.app.Notification;
 import android.app.NotificationChannel;
@@ -13,6 +13,8 @@ import android.os.IBinder;
 import android.os.Looper;
 import android.support.v4.app.NotificationCompat;
 import android.util.Log;
+
+import com.android.flipflop.R;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

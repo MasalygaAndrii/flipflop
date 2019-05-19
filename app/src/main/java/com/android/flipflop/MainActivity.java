@@ -11,6 +11,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
+import com.android.flipflop.services.FlipFlopService;
+
 public class MainActivity extends AppCompatActivity {
     public static final String TAG = "service_flipflop";
     public final static String BROADCAST_ACTION = "com.homework.android.FLIPFLOP";
